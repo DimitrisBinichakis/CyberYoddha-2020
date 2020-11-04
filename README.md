@@ -16,7 +16,7 @@ I have to thank my team for the effort and time they put in solving challenges !
   
   
   
-  #### * CTF general info * 
+  ####  CTF general info 
 
 The CTF ran from October 30th to November 1st
 
