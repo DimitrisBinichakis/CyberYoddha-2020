@@ -1,6 +1,6 @@
 ###  Cyber  Yoddha  CTF 
 
-We managed to place top 12% out of all the teams that participated in this CTF , and for that 
+We managed to place top 12% out of all the teams that participated in this CTF , and for that \n
 I have to thank my team for the effort and time they put in solving challenges !
 
 
